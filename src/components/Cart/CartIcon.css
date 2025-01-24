@@ -1,0 +1,9 @@
+.cart-container {
+  display: flex;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.cart-container:hover {
+  transform: scale(1.7);
+}

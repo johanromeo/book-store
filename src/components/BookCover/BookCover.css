@@ -1,0 +1,29 @@
+.book-cover {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  height: 400px;
+  text-align: bottom-left;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  flex: 0 1 300px;
+  transition: 0.5s;
+}
+
+.book-cover:hover {
+  transform: scale(1.05);
+}
+
+.book-cover h3 {
+  font-size: 2rem;
+  text-align: left;
+  margin: 0;
+}
+
+.book-cover p {
+  text-align: left;
+  margin: 0;
+}
