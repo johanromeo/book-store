@@ -13,7 +13,7 @@ This is is an exercise from the ongoing "React.js"-course @Folkuniversitetet.
 
 ### Video demonstration
 
-- [Click to see a 30 seconds video demo of the application](/book_store_video_demo.mp4)
+- [Click to see a short demo of the webapplication](/book_store_video_demo.mp4)
 
 ## Folder Structure
 
